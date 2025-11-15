@@ -62,7 +62,7 @@ Elements included in order:
 
 📝 Header Section
 
-<h1> with my full name
+<h2> with my full name
 
 A short tagline describing myself
 
